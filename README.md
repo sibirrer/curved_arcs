@@ -8,13 +8,13 @@ This repository hosts the notebooks to reproduce the figures presented by Birrer
 The following notebooks are available:
 
 
-- [Curved arc illustrations](https://github.com/sibirrer/curved_arcs): Notebook to illustrate curved arcs and 
+- [Curved arc illustrations](https://github.com/sibirrer/curved_arcs/blob/main/Notebooks/curved_arc_illustration.ipynb): Notebook to illustrate curved arcs and 
 constraints in azimuthal and radial direction.
 
-- [SPT in curved arcs](https://github.com/sibirrer/curved_arcs): Notebook to assess shape noise degeneracies in 
+- [SPT in curved arcs](https://github.com/sibirrer/curved_arcs/blob/main/Notebooks/spt_curved_arc.ipynb): Notebook to assess shape noise degeneracies in 
 the inference of curved arcs.
 
-- [local vs global fit](https://github.com/sibirrer/curved_arcs): Notebook demonstrating the
+- [local vs global fit](https://github.com/sibirrer/curved_arcs/blob/main/Notebooks/local_vs_global_fit.ipynb): Notebook demonstrating the
 joint fitting of local curved arc models without relying on a global macro model, and comparing the constraints
 with the global macro-model inference.
 
