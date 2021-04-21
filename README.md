@@ -1,7 +1,8 @@
 # Curved arcs
 Gravitational lensing formalism in a curved arc basis.
 
-This repository hosts the notebooks to reproduce the figures presented by Birrer 2021.
+This repository hosts the notebooks to reproduce the figures presented by [Birrer 2021](https://arxiv.org/abs/2104.09522).
+
 
 
 ## Notebooks
@@ -28,5 +29,5 @@ The notebooks in the form presented run with lenstronomy version 1.8.1.
 
 ## Attribution
 If you make use of the notebooks, be it in the original form or modified,
-please cite [Birrer 2021](https://arxiv.org/abs/tbd) for the methodology and
+please cite [Birrer 2021](https://arxiv.org/abs/2104.09522) for the methodology and
 [Birrer & Amara 2018](https://arxiv.org/abs/1803.09746v1) for the use of the software.
