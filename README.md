@@ -23,11 +23,11 @@ with the global macro-model inference.
 ## Dependencies
 
 All the calculations and analysis are performed by [lenstronomy](https://github.com/sibirrer/lenstronomy).
-The notebooks in the form presented run with lenstronomy version 1.8.1.
+The notebooks in the form presented run with lenstronomy version 1.8.2.
 
 
 
 ## Attribution
 If you make use of the notebooks, be it in the original form or modified,
 please cite [Birrer 2021](https://arxiv.org/abs/2104.09522) for the methodology and
-[Birrer & Amara 2018](https://arxiv.org/abs/1803.09746v1) for the use of the software.
+[Birrer & Amara 2018](https://arxiv.org/abs/1803.09746v1), [Birrer et al. 2021](https://joss.theoj.org/papers/10.21105/joss.03283) for the use of the software.
